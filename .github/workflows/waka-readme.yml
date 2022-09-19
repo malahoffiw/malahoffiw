@@ -22,5 +22,5 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
           SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
           
