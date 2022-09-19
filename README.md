@@ -19,8 +19,8 @@
 ```text
 Week: 11 September, 2022 - 18 September, 2022
 
-YAML         5 mins          ██████████████░░░░░░░░░░░   55.57 % 
-Markdown     4 mins          ██████████░░░░░░░░░░░░░░░   39.76 % 
+YAML         5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.57 % 
+Markdown     4 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.76 % 
 ```
 <!--END_SECTION:waka-->
 
