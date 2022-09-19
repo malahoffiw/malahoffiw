@@ -13,6 +13,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v1
       - uses: malahoffiw/malahoffiw@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
