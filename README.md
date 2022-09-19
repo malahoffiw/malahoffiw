@@ -12,10 +12,12 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+```text
+Week: 11 September, 2022 - 18 September, 2022
 
-
- Last Updated on 19/09/2022 20:52:34 UTC
+YAML         5 mins          ██████████████░░░░░░░░░░░   55.57 % 
+Markdown     4 mins          ██████████░░░░░░░░░░░░░░░   39.76 % 
+```
 <!--END_SECTION:waka-->
 
 
