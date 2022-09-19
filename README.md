@@ -12,7 +12,40 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 70 Contributions in the Year 2022
+ > 
+> 📦 7.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             ███████████░░░░░░░░░░░░░░   46.15% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/malahoffiw/malahoffiw/main/charts/bar_graph.png) 
+
+
+ Last Updated on 19/09/2022 20:28:13 UTC
 <!--END_SECTION:waka-->
 
 
