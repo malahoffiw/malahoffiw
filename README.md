@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" > 
-  <img src="https://api.githubtrends.io/user/svg/malahoffiw/repos?time_range=three_months&theme=dark" width="400">
+  <img src="/github-metrics.svg" alt="Metrics" width="400" > 
+  <img src="https://api.githubtrends.io/user/svg/malahoffiw/repos?time_range=three_months&theme=dark" width="335">
 </p>
 
 ## Feel free to drop me a line anytime!
