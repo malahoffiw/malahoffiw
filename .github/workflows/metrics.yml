@@ -1,0 +1,19 @@
+name: Metrics
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    # Runs every 4 hours
+    - cron: "0 */4 * * *"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
