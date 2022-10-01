@@ -16,7 +16,7 @@
 ## Feel free to drop me a line anytime!
 * My telegram --> [malahoffiw](https://t.me/malahoffiw) 
 * My vk --> [malahoffiw](https://vk.me/malahoffiw)
-* And if you are a truly serious person --> My email - malahoffiw@ya.ru
+* And if you are a truly serious person --> My email - malahoffiw@gmail.ru
 
 
 
