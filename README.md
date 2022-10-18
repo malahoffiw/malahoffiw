@@ -3,8 +3,9 @@
 #### <p align="center"> &#8595; Things I use &#8595;</p>
 <p align="center">
     <img src="https://img.shields.io/badge/-react-blue?style=for-the-badge&logo=react" />
-    <img src="https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
     <img src="https://img.shields.io/badge/-typescript-lightblue?style=for-the-badge&logo=typescript" />
+    <img src="https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript" />
     <img src="https://img.shields.io/badge/-SCSS-pink?style=for-the-badge&logo=sass" />
 </p>
 
